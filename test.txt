@@ -26,5 +26,3 @@ ffe
 feature
 
 featurgd
-remote push denemesi
-rtest
